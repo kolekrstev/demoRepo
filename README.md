@@ -1,2 +1,2 @@
 # demoRepo
-Data science demo repo
+This is a deo repository for GitHub
